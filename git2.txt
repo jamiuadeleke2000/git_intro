@@ -1,1 +1,1 @@
-*Second git file to be committed after staging
+*Second git file to be committed
