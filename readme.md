@@ -60,3 +60,4 @@ S/N|     Git Branch           |             Purpose                 |Command
 --------------------------------------------------------------------------------
 6. |Change branch name   |To edit a brnch name to new name of choice|git branch -m <current_branch_name> <branch_name_to_change_to>
 --------------------------------------------------------------------------------
+
